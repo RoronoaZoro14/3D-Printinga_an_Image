@@ -1,4 +1,4 @@
-The [luffy_color](luffy_color.stl) is the 3D-model file of the [color image](images/Original_image.jpeg) implimented using signal processing and CAD. 
+The [luffy_color](luffy_color.stl) is the 3D-model file of the [color image](3D-Printing_an_Image/images/Original_image.jpeg) implimented using signal processing and CAD. 
 The [luffy_filtered](luffy_filtered.stl) is the 3D-model of the filtered image implimented using edge-detection, signal processing and CAD.
 This folder also includes the 3D Manufacturing Format files for both the models, these can be opened using the Bambu Studio and it already includes the pause that is required for changing the filament if your printer doesn't support AMS (Automatic Material System). Just simply select the printer, the layer height and slice the plate.
 Note: If the above step doesnt work for you because you have a diffent printer than simply add the pause on the layer on which the face of the character just appears. And change the fillament after the pause then continue the print. Both the .3mf files can be found here, [Luffy_color](Luffy_color.3mf) & [luffy_filtered](luffy_filtered.3mf).
